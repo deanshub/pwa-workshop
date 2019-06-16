@@ -1,0 +1,10 @@
+.header {
+  max-height: 20vh;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3e3e3f;
+  color: white;
+  font-size: 2em;
+}

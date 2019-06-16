@@ -1,0 +1,24 @@
+.countDownItem {
+  margin: 0.5em 0;
+  display: flex;
+}
+
+.removeButton {
+  margin-right: 1em;
+  background: #cc4b37;
+  text-decoration: none;
+  color: black;
+  font-size: 1.3rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.3em 0.7em;
+  border: 0;
+  box-shadow: 2px 2px 3px #2f2f2f;
+}
+
+.itemName {
+  flex: 1;
+}
+.itemTime {
+}

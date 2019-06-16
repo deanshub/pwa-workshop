@@ -1,0 +1,17 @@
+.installButton {
+  position: fixed;
+  right: 50%;
+  bottom: 1em;
+  border-radius: 50%;
+  height: 5em;
+  width: 5em;
+  background: #767676;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 0.3em 0.7em;
+  border: 0;
+  box-shadow: 2px 2px 3px #2f2f2f;
+}

@@ -1,0 +1,9 @@
+{
+  "restartable": "rs",
+  "verbose": true,
+  "delay": "100",
+  "watch": ["server/*"],
+  "execMap": {
+    "js": "babel-node"
+  }
+}
