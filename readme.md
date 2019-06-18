@@ -10,6 +10,8 @@ This is an easy and modern way to do [Google's your-first-pwapp](https://codelab
 
 `npm i -g yarn` (or use the npm commands)
 
+`yarn` (for installation)
+
 ## Introduction
 
 Congratulations, you have a web app and it's responsive but since Eran Shabi doesn't want to access it through the browser, we want to make it easier for him by making it a PWA and installing it on our smartphone (just like any native app).
